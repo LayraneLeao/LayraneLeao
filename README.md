@@ -15,36 +15,26 @@ ___
 ### 🚀 Tecnologias  
 
 #### **Back-End**  
-
+- 🔧 **PHP**  
+- 💾 **MySQL**  
+- 🐍 **Python**  
 
 #### **Front-End**  
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-</a>
+- 📜 **HTML5**  
+- 🎨 **CSS3**  
+- ⚙️ **JavaScript**  
 
 #### **Banco de Dados**  
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-</a>
+- 💻 **MySQL**
 
 #### **Outras ferramentas**  
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
-</a>
-<a href="https://www.canva.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" title="Canva" alt="Canva" width="50" height="50"/>
-</a>
-
+- 🎨 **Figma**  
+- 🖌 **Canva**  
+- 🌐 **AWS**
 
 ---
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Layrane and I'm a Backend Developer from Brazil.</h2>
 
 ###
 
@@ -65,17 +55,11 @@ ___
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
@@ -91,7 +75,6 @@ ___
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LayraneLeao/LayraneLeao/output/snake.svg" alt="Snake animation" />
 
 ###
 
