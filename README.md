@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=007BFF&width=600&lines=Hello+World%2C+I'm+Layrane+Le%C3%A3o;Full+Stack+Developer;Programadora+apaixonada+por+tecnologia!)
-
 👋 Olá, eu sou Layrane Leão!  
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas e também curso Técnico em Desenvolvimento de Sistemas pelo Senai. Além das formações, participo de um curso focado em Desenvolvimento Full Stack – nível Júnior
