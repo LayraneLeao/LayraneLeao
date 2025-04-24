@@ -2,6 +2,7 @@
 
 👋 Olá, eu sou Layrane Leão!  
 📚 Estudante de Análise e Desenvolvimento de Sistemas e também curso Técnico em Desenvolvimento de Sistemas pelo Senai. Além das formações, participo de um curso focado em Desenvolvimento Full Stack – nível Júnior
+
 👩🏽 Sou uma mulher que nunca achou na vida que gostaria de programar, mas que resolveu arriscar e finalmente se encontrou na vida. Tenho 22 anos, e há cerca de 1 ano entrei para esse universo de tecnologia, pelo qual sou profundamente apaixonada!  
 🔭 Atualmente estudando **Java, MySQL/SQL e JavaScript (Node.js)**  
 💞️ Buscando oportunidades para colaborar em projetos de **desenvolvimento full stack** 
