@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=007BFF&width=600&lines=Hello+World%2C+I'm+Layrane+Le%C3%A3o;Full Stack+Developer;Programadora+apaixonada+por+tecnologia!" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=007BFF&width=600&lines=Hello+World%2C+I'm+Layrane+Le%C3%A3o;Full+Stack+Developer;Programadora+apaixonada+por+tecnologia!)
 
 👋 Olá, eu sou Layrane Leão!  
 
